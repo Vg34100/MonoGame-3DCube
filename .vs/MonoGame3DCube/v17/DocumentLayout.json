@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\video\\The Studio\\Projects\\The Game Lab\\MonoGame\\MonoGame-3DCube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF06C8-437A-4561-B18D-170AF3FD3BE0}|MonoGame3DCube\\MonoGame3DCube.csproj|c:\\users\\video\\the studio\\projects\\the game lab\\monogame\\monogame-3dcube\\monogame3dcube\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FF06C8-437A-4561-B18D-170AF3FD3BE0}|MonoGame3DCube\\MonoGame3DCube.csproj|solutionrelative:monogame3dcube\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\video\\The Studio\\Projects\\The Game Lab\\MonoGame\\MonoGame-3DCube\\MonoGame3DCube\\Game1.cs",
+              "RelativeDocumentMoniker": "MonoGame3DCube\\Game1.cs",
+              "ToolTip": "C:\\Users\\video\\The Studio\\Projects\\The Game Lab\\MonoGame\\MonoGame-3DCube\\MonoGame3DCube\\Game1.cs",
+              "RelativeToolTip": "MonoGame3DCube\\Game1.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAH4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:33:07.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
